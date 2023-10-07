@@ -1,2 +1,3 @@
 # Sales_Analytics_Report
 Involves Excel Sales Analytics: Use Power Pivot, Power Query, Pivot Tables, ETL. Analyze 2019-2021 net sales, detailed 2020 vs. 2021 comparison.
+This project involves the creation of a comprehensive Sales Analytics Report in Microsoft Excel, leveraging advanced data processing techniques such as Power Pivot, Power Query, Pivot Tables, and ETL (Extract, Transform, Load) methods. The primary objective of this report is to analyze and visualize the net sales performance of customers over the years 2019, 2020, and 2021. Additionally, the report provides a detailed comparison of sales performance between 2020 and 2021.
